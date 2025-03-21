@@ -4,7 +4,7 @@
 "productVersion": "1.0",
 "dataUrl": "https://cdn.jsdelivr.net/gh/mumbojum2/masked@main/Build/masked-forces-unlimited.data.unityweb",
 "wasmCodeUrl": "https://cdn.jsdelivr.net/gh/mumbojum2/masked@main/Build/masked-forces-unlimited.asm.code.unityweb",
-"wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/russ-ilove/4@main/pubgmini.wasm.framework.unityweb",
+"wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/mumbojum2/masked@main/Build/masked-forces-unlimited.asm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
